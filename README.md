@@ -1,18 +1,6 @@
 # mekrapharmaceuticals
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    .heading {
-      color: black;
-      font-weight: bold;
-    }
-    .content {
-      color: black;
-    }
-  </style>
-</head>
-<body>
 
 <h1 class="heading">MEKRA PHARMACEUTICALS PRIVATE LIMITED - Your Trusted Pharmacy</h1>
 
